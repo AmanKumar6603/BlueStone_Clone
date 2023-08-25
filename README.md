@@ -46,7 +46,7 @@ VS code
 
 - Payment Page
 
-Click here to visit our website : https://www.bluestone.com/about.html
+Click here to visit our website : [https://www.bluestone.com/about.html](https://bluestoneclone.netlify.app/)
 
 # Contributors
 - Km. Rinki
